@@ -1,0 +1,31 @@
+body {
+	background-image: linear-gradient(to bottom, #950e00, #400e00);
+	color: #fff;
+	font-family: Arial, sans-serif;
+	margin: 15px;
+	line-height: 200%;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline; 
+}
+h2 {
+	text-transform: uppercase;
+	font-size: 1em;
+	text-decoration: underline; 
+}
+a {
+	color:  teal;
+	font-style: italic;
+}
+ul {
+	font-style: italic;
+}
+ol {
+	font-style: italic;
+}
+img {
+	border-radius: 15px;
+	box-shadow: 7px 7px 7px black;
+}
