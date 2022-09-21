@@ -1,5 +1,5 @@
 body {
-	background-color: #3F000F;
+	background-image: linear-gradient(to bottom, #950e00, #400e00);
 	color: #fff;
 	font-family: Arial, sans-serif;
 	margin: 15px;
@@ -24,4 +24,8 @@ ul {
 }
 ol {
 	font-style: italic;
+}
+img {
+	border-radius: 15px;
+	box-shadow: 7px 7px 7px black;
 }
