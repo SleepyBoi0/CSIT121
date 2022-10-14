@@ -1,0 +1,62 @@
+#wrapper { 
+		margin-left: auto;
+		margin-right: auto;
+        width: 80%; 
+       }
+#instructions {
+	float: right;
+	display: inline-block;
+	width: 400px;
+}
+#ingredients {
+	float: left;
+	margin-right: 10%;
+	display: inline-block;
+	width:  400px;
+}
+#paragraph {
+	clear: both;
+}
+#image {
+	float: right;
+	position: relative;
+	bottom: 500px;
+}
+body {
+	background-image: linear-gradient(to bottom, #950e00, #400e00);
+	color: #fff;
+	font-family: Arial, sans-serif;
+	margin: 15px;
+	line-height: 200%;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline; 
+}
+h2 {
+	text-transform: uppercase;
+	font-size: 1em;
+	text-decoration: underline; 
+}
+ul {
+	font-style: italic;
+}
+ol {
+	font-style: italic;
+}
+a:link {
+	color: teal;
+	font-style: italic;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: yellow;
+}
+img {
+	border-radius: 15px;
+	box-shadow: 7px 7px 7px black;
+	width: 400px;
+}
